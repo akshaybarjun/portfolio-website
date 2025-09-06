@@ -29,8 +29,3 @@ GitHub Pages – Hosting
 🌍 Live Demo
 
 🔗
-
-
-🌍 Live Demo
-
-🔗 View Portfolio on GitHub Pages
